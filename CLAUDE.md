@@ -1,0 +1,3 @@
+@AGENTS.md
+
+@RUTAS-PROYECTO.md
